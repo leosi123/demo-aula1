@@ -1,3 +1,5 @@
 A aula 2 é sobre git apresentação de projeto
 
 A aula 2 tende a ser mais difícil por conta que git é algo diferente, mas no fim todo mundo entende
+
+A aula 2 tambem foi editada via github
